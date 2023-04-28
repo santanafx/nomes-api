@@ -1,0 +1,16 @@
+{
+  "nomes": [
+    {
+      "id": 1,
+      "nome": "Lucas"
+    },
+    {
+      "id": 2,
+      "nome": "João"
+    },
+    {
+      "id": 3,
+      "nome": "José"
+    }
+  ]
+}
